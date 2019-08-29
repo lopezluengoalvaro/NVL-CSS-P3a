@@ -13,3 +13,12 @@ Por eso pensar en un Aston Martin DB5 (por ejemplo) es hacerlo en Sean Connery y
 Y es que uno de los Aston que más se acerca a los coches americanos repite de nuevo en la saga: tras su aparición en 007: Alta Tensión con Timoty Dalton haciendo de James Bond, se puede ver la misma unidad (aparentemente). La clave está en la matrícula, que es la misma: B549 WUU.</p>  
    </body>
 </html>
+
+h1 {
+   color: red;
+   background-color: black: 
+}
+
+p {
+   color: black;
+}
